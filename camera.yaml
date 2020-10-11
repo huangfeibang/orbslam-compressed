@@ -1,0 +1,7 @@
+cam_overlaps: []
+  camera_model: pinhole
+  distortion_coeffs: [0.06868596,-0.03330597 ,0.00027442 ,0.00349783]
+  distortion_model: radtan
+  projection: [  -0.0493029 ,982.14884129 ,983.3749857,1032.14483134,762.19419312]
+  resolution: [640, 480]
+  rostopic: /rgb/image_raw_throttle
